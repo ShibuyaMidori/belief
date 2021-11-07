@@ -5,6 +5,7 @@ Your life is yours.
 
 # Commit message
 :sparkless:         新機能
+:+1:
 :bug:
 :recycle            リファクタリング
 :books:             ドキュメント
